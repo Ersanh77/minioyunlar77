@@ -1,0 +1,6 @@
+{
+  "name": "Mini Oyun Kutusu",
+  "description": "3-7 yaş çocuklar için harf, renk, sayı, şekil, duygu ve hayvan sesleri öğreten 10 eğitici mini oyun. Güvenli ve eğlenceli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
